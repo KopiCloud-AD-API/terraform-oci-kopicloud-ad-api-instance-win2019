@@ -1,0 +1,1 @@
+# terraform-oci-kopicloud-ad-api-instance-win2019
