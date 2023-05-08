@@ -6,7 +6,7 @@ The Terraform code in this repo will deploy an Oracle Cloud (OCI) Virtual Machin
 
 ## Network Configuration
 
-The code will create a network (VPC and Subnet).
+The code will create the network resources (VCN, Subnet, Internet Gateway, Routes).
 
 ## Notes
 
