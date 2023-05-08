@@ -20,6 +20,11 @@ api_admin_user = "opc"
 api_public_ip = "xxx.xxx.xxx.xxx"
 ```
 
+## Configuring Oracle Cloud Credentials
+
+How to Configure the Terraform Provider for OCI (Oracle Cloud Infrastructure) with API Key Authentication
+https://medium.com/@gmusumeci/how-to-configure-the-terraform-provider-for-oci-oracle-cloud-infrastructure-with-api-key-756b368647b1
+
 ## How to Set Up KopiCloud AD API
 
 1. Get a License - Generate a free trial license (no credit card required) or purchase a license [here](https://www.kopicloud-ad-api.com/get-license)
